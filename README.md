@@ -23,8 +23,10 @@ There are few vairables you can change to customize your application.
 **good_math_path_yaml:**  This is the yaml file where you store the modified map in this path.<br />
 
 
-ros control panel.py </br>
-procedure
+**ros control panel.py** </br></br>
+
+<ins>procedure<ins></br></br>
+
 In the terminal, run the command python 'ros control panel.py'
 
 You should see a panel like this:
