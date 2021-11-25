@@ -9,7 +9,7 @@ There are few vairables you can change to customize your application.
 
 ![image](https://user-images.githubusercontent.com/79799975/141095392-bdc16af4-68a7-4782-8997-99cd959c90a0.png)
 
-gazebo_package: the package where you store the launch file for the SLAM application<br />
+gazebo_package: the package where you store the launch file for the SLAM application<br /><br />
 gazebo_launch: the launch file that should contain everything needed for SLAM (gazebo world, robot, rviz)<br />
 navigation_package: the package where you store the launch file for the navigation application<br />
 navigation_launch: the launch file that should contain everything needed for navigation(gazebo world, robot, map used for navigation, navigation algorithm)<br />
